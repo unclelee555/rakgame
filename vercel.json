@@ -5,8 +5,8 @@
   "framework": "nextjs",
   "regions": ["sin1"],
   "env": {
-    "NEXT_PUBLIC_SUPABASE_URL": "@rakgame-supabase-url",
-    "NEXT_PUBLIC_SUPABASE_ANON_KEY": "@rakgame-supabase-anon-key"
+     "NEXT_PUBLIC_SUPABASE_URL": "https://uhinvfcoihlbvmjopaay.supabase.co",
+    "NEXT_PUBLIC_SUPABASE_ANON_KEY": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InVoaW52ZmNvaWhsYnZtam9wYWF5Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjI3NDczNTUsImV4cCI6MjA3ODMyMzM1NX0.Nq5yyc7ReTYesP-hFY8xn4XSXapKyZGkGgTp51C_vRw"
   },
   "headers": [
     {
